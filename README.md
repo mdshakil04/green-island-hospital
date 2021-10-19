@@ -1,10 +1,32 @@
-# Getting Started with Create React App
+# Green Island Hospital
+## About Us
+#### 1.We have Dedicated Doctors & Staffs.
+#### 2.We have Country best treatment.
+#### 3.We have Modern Medical Equipment.
+#### 4.Our all Reports are 100% Accurate.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Our Goals:
+#### Adhering to high ethical and moral standards at all times
+#### Making service quality top priority in all we do
+#### Training staff to work within a quality care environment
+#### Providing quality health care service in all processes
+#### Delivering customer satisfaction through quality service
 
-## Available Scripts
+### Contact Information
+##### Email: gi.hospital@yahoo.com
+##### Phone: 01714769575
+
+### Branches:
+#### We have three branch,
+##### 1.Mirpur 2.Barisal 3.Bhola 
+
+
+## Address:
+###### 18/F, Bir Uttam Qazi Nuruzzaman Sarak, West Panthapath,Dhaka 1205
+
 
 In the project directory, you can run:
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### `npm start`
 
@@ -68,3 +90,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# healthcare-related-website-mdshakil04
